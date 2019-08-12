@@ -29,12 +29,6 @@ build project:
 npm run-script build
 ```
 
-build project:
-
-```
-npm run-script build
-```
-
 finally run dev server:
 
 ```
